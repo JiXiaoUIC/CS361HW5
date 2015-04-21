@@ -1,0 +1,21 @@
+When using PTHREAD_MUTEX_INITIALIZER
+
+	http://stackoverflow.com/questions/14320041/pthread-mutex-initializer-vs-	pthread-mutex-init-mutex-param
+
+
+When to use pthread_barrier_wait
+
+	https://piazza.com/class/i4u2iam2cg028a?cid=285
+
+
+Structure for passenger and elevator based off main.c code
+
+
+Linked List queue structure
+
+	https://idea.popcount.org/2012-09-11-concurrent-queue-in-c/
+
+	https://github.com/agriel/Scheduling-algorithms/blob/master/hw6i4.c
+
+		-This code is very similar to our template
+		-Careful not to plagiarize
