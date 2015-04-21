@@ -15,7 +15,7 @@ Linked List queue structure
 
 	https://idea.popcount.org/2012-09-11-concurrent-queue-in-c/
 
-	https://github.com/agriel/Scheduling-algorithms/blob/master/hw6i4.c
+	https://github.com/agriel/Scheduling-algorithms/blob/master/hw6.c
 
 		-This code is very similar to our template
 		-Careful not to plagiarize
